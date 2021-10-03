@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  background-color: #79bac1;
+  font-family: "Montserrat-Black";
+
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  text-align: center;
+}
+
+h5 {
+  text-align: right;
+}
+
+h4 {
+  font-family: "Montserrat-bold";
+  font-size: 2rem;
+}
+
+h6 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+p {
+  color: gray;
+}
+
+.container-fluid {
+  padding: 0 3%;
+}
+
+/* nabivaion bar */
+.navbar {
+  padding-bottom: 0 0 2.5rem;
+}
+
+.navbar-brand {
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-left: 2%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+.download-botton {
+  margin: 5% 3% 5% 0;
+}
+
+.row {
+  padding-top: 50px;
+}
+
+/* title image */
+.logo-image {
+  width: 200px;
+  height: 200px;
+}
+
+.button {
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.button1 {
+  height: 70px;
+  width: 350px;
+  background-color: #4CAF50;
+  font-size: 1.5rem;
+}
+
+.button2 {
+  height: 70px;
+  width: 350px;
+  background-color: #008CBA;
+  font-size: 1.5rem;
+}
+
+/* slider-new */
+.corousel-item {
+  padding: 7% 15%;
+}
+
+.slider {
+  text-align: center;
+  background-color: #58b4ae;
+}
+
+.help-image {
+  width: 15%;
+  margin: 20px;
+  border-radius: 70%
+}
+
+#help-carousel {
+  text-align: center;
+}
+
+.help-desc {
+  text-align: center;
+}
+
+/* Features Section  */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.icon {
+  color: #381460;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #be79df;
+}
+
+/* generalinformation */
+#general-info {
+  background-color: #58b4ae;
+  padding: 0 50px;
+}
+
+.info-text {
+  color: white;
+}
+.card{
+  padding: 10px;
+}
+
+.card-header {
+  color: #ffe9c5;
+  background-color: #381460;
+}
+
+.list-unstyled {
+  font-size: 1.5rem;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  height: 100px;
+text-align: center;
+
+
+
+}/* new footer */
+#footer {
+  text-align: center;
+  padding: 50px 0;
+  color: black;
+}
+
+.footer-text {
+  font-size: 12px;
+  line-height: 2px;
+  color: black;
+}
+
+.footer-icon {
+  margin: 50px 10px;
+
+}
+
+.footer-icon:hover {
+  color: #ff4c88;
+}
