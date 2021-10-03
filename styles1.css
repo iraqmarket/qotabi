@@ -34,8 +34,13 @@ body {
     border: 1px solid #ccc;
     float: left;
     width: 40%;
+    
       margin: 15px;
   }
+  .gallery img {
+  width: 100%;
+  height: 300px;
+}
 
 }
 
