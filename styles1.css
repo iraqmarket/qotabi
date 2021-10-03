@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color:#79bac1;
   font-family: "Montserrat-Black";
   font-size: 1rem;
   line-height: 1.5;
@@ -20,9 +20,7 @@ body {
 }
 
 @media screen and (max-width: 1200px) {
-  body {
-    background-color: white;
-  }
+ 
 
   .fakher {
     display: inline-block;
